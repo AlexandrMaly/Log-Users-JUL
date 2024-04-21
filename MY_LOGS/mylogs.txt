@@ -1,0 +1,96 @@
+апр. 21, 2024 9:08:06 AM service.UserService create
+WARNING: Data inputs incorrect.
+exceptions.UserException: Check inputs
+	at service.UserService.create(UserService.java:75)
+	at controller.UserController.createUser(UserController.java:22)
+	at service.AppService.handleOption(AppService.java:19)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.readUsers(UserController.java:40)
+	at service.AppService.handleOption(AppService.java:20)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at App.main(App.java:6)
+
+апр. 21, 2024 9:15:23 AM service.UserService create
+WARNING: Data inputs incorrect.
+exceptions.UserException: Check inputs
+	at service.UserService.create(UserService.java:64)
+	at controller.UserController.createUser(UserController.java:22)
+	at service.AppService.handleOption(AppService.java:19)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.readUsers(UserController.java:40)
+	at service.AppService.handleOption(AppService.java:20)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at App.main(App.java:6)
+
+апр. 21, 2024 9:15:51 AM service.UserService update
+WARNING: Data inputs incorrect.
+exceptions.UserException: Check inputs
+	at service.UserService.update(UserService.java:148)
+	at controller.UserController.updateUser(UserController.java:60)
+	at service.AppService.handleOption(AppService.java:21)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.readUsers(UserController.java:40)
+	at service.AppService.handleOption(AppService.java:20)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.updateUser(UserController.java:66)
+	at service.AppService.handleOption(AppService.java:21)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.readUsers(UserController.java:40)
+	at service.AppService.handleOption(AppService.java:20)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.createUser(UserController.java:28)
+	at service.AppService.handleOption(AppService.java:19)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at controller.UserController.readUsers(UserController.java:40)
+	at service.AppService.handleOption(AppService.java:20)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at App.main(App.java:6)
+
+апр. 21, 2024 9:18:42 AM service.UserService create
+WARNING: Data inputs incorrect.
+exceptions.UserException: Check inputs
+	at service.UserService.create(UserService.java:63)
+	at controller.UserController.createUser(UserController.java:22)
+	at service.AppService.handleOption(AppService.java:19)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at App.main(App.java:6)
+
+апр. 21, 2024 9:23:16 AM service.UserService create
+WARNING: Data inputs incorrect.
+exceptions.UserException: Check inputs
+	at service.UserService.create(UserService.java:63)
+	at controller.UserController.createUser(UserController.java:22)
+	at service.AppService.handleOption(AppService.java:25)
+	at controller.AppController.runApp(AppController.java:18)
+	at utils.AppStarter.startApp(AppStarter.java:13)
+	at App.main(App.java:6)
+
+апр. 21, 2024 9:28:12 AM service.UserService read
+INFO: User data read: 1) User: Id = 2, name = ALex, email = ALEX@mail.com
+2) User: Id = 3, name = Alex, email = ALex@mail.gmail
+
+апр. 21, 2024 9:28:32 AM service.UserService create
+WARNING: Data inputs incorrect.
+апр. 21, 2024 9:28:38 AM service.UserService read
+INFO: User data read: 1) User: Id = 2, name = ALex, email = ALEX@mail.com
+2) User: Id = 3, name = Alex, email = ALex@mail.gmail
+
+апр. 21, 2024 9:30:51 AM service.UserService create
+WARNING: Data inputs incorrect.
+апр. 21, 2024 9:31:31 AM service.UserService read
+INFO: User data read: 1) User: Id = 2, name = ALex, email = ALEX@mail.com
+2) User: Id = 3, name = Alex, email = ALex@mail.gmail
+
+апр. 21, 2024 9:32:00 AM service.UserService create
+WARNING: Data inputs incorrect.
